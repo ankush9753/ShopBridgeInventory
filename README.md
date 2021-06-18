@@ -5,5 +5,3 @@ This repository contains a controller which is dealing with product functionalit
 2. Modify an item in the Inventory
 3. Delete an item from the Inventory
 4. List the item in the inventory
-
-Hope this helps.
